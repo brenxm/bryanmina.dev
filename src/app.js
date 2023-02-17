@@ -1,8 +1,13 @@
-const body = document.querySelector('body');
 
-body.innerHTML = 
-`
-    <div>
-        Hello Bryan Mina
+import NavBar from "./components/nav";
+
+function App(prop) {
+  return (
+    <div className="app-container">
+      <NavBar />
+      {prop.route}
     </div>
-`
+  )
+}
+
+export default App;
