@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bryanmina.dev/static/css/main.4fdcd936.css",
+    "main.js": "/bryanmina.dev/static/js/main.0588294e.js",
+    "static/js/787.0de45551.chunk.js": "/bryanmina.dev/static/js/787.0de45551.chunk.js",
+    "static/media/portrait.png": "/bryanmina.dev/static/media/portrait.e607a9d37db3633a5c19.png",
+    "index.html": "/bryanmina.dev/index.html",
+    "main.4fdcd936.css.map": "/bryanmina.dev/static/css/main.4fdcd936.css.map",
+    "main.0588294e.js.map": "/bryanmina.dev/static/js/main.0588294e.js.map",
+    "787.0de45551.chunk.js.map": "/bryanmina.dev/static/js/787.0de45551.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fdcd936.css",
+    "static/js/main.0588294e.js"
+  ]
+}
