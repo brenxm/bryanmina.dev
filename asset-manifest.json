@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bryanmina.dev/static/css/main.4fdcd936.css",
-    "main.js": "/bryanmina.dev/static/js/main.0588294e.js",
-    "static/js/787.0de45551.chunk.js": "/bryanmina.dev/static/js/787.0de45551.chunk.js",
-    "static/media/portrait.png": "/bryanmina.dev/static/media/portrait.e607a9d37db3633a5c19.png",
-    "index.html": "/bryanmina.dev/index.html",
-    "main.4fdcd936.css.map": "/bryanmina.dev/static/css/main.4fdcd936.css.map",
-    "main.0588294e.js.map": "/bryanmina.dev/static/js/main.0588294e.js.map",
-    "787.0de45551.chunk.js.map": "/bryanmina.dev/static/js/787.0de45551.chunk.js.map"
+    "main.css": "/static/css/main.4fdcd936.css",
+    "main.js": "/static/js/main.f1b3eef1.js",
+    "static/js/787.0de45551.chunk.js": "/static/js/787.0de45551.chunk.js",
+    "static/media/portrait.png": "/static/media/portrait.e607a9d37db3633a5c19.png",
+    "index.html": "/index.html",
+    "main.4fdcd936.css.map": "/static/css/main.4fdcd936.css.map",
+    "main.f1b3eef1.js.map": "/static/js/main.f1b3eef1.js.map",
+    "787.0de45551.chunk.js.map": "/static/js/787.0de45551.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4fdcd936.css",
-    "static/js/main.0588294e.js"
+    "static/js/main.f1b3eef1.js"
   ]
 }
